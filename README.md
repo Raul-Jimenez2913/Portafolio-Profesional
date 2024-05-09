@@ -21,7 +21,7 @@
 - **Tecnologías:** Codeblocks, OpenGl y lenguaje C++.
 - **Enlace al Proyecto:** Se encuentra en este github llamado "VideojuegoPlataformas_OpenGL"
 
-### 4. Reforest Revenge (Videojuego de plataformas)
+### 4. Reforest Revenge - Videojuego
 - **Descripción:** Este es un juego de plataformas que se basa en un pequeño árbol que tiene que llegar hasta la estatua de su madre para poder vivir para siempre, por lo que tiene que pasar por varios leñadores y atacarlos o esquivarlos para sobrevivir y llegar hasta la meta. Sin embargo, no es algo fácil, ya que se deshidratará conforme el paso del tiempo y tendrás que hidratarte constantemente hasta llegar a la meta y no perder.  
 - **Tecnologías:** Unity y lenguaje C#
 - **Enlace al Proyecto:** Se encuentra en este github llamado "ReforestRevenge"
