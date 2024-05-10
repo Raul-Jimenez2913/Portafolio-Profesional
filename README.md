@@ -27,7 +27,7 @@
 - **Enlace al Proyecto:** Se encuentra en este github llamado "ReforestRevenge"
 
 ### Otros proyectos
-- Awake Pre-Alpha (Videojuego en Unity)
+- Awake Pre-Alpha (Videojuego en Unreal Engine colaborador)
 - Extraordinario (Videojuego en Unity)
 
 ## Acerca de mí
